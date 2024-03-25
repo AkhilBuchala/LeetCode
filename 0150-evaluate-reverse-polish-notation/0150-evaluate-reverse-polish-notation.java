@@ -1,35 +1,35 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer> ans = new Stack<>();
-        for(String i: tokens) {
-            if(i.equals("+")){
-                int a = ans.pop();
-                int b = ans.pop();
-                int c = a + b;
-                ans.push(c);
+     
+        Stack<Integer> store = new Stack<>();
+        for(String i : tokens){
+            if(i.equals("+")) {
+                int a = store.pop();
+                int b = store.pop();
+                int c = a+b;
+                store.push(c);
             }
-            else if (i.equals("-")){
-                int a = ans.pop();
-                int b = ans.pop();
-                int c = b - a;
-                ans.push(c);
+            else if(i.equals("-")) {
+                int a = store.pop();
+                int b = store.pop();
+                int c = b-a;
+                store.push(c);
             }
-            else if(i.equals("*")){
-                int a = ans.pop();
-                int b = ans.pop();
-                int c = a * b;
-                ans.push(c);
+            else if(i.equals("*")) {
+                int a = store.pop();
+                int b = store.pop();
+                int c = a*b;
+                store.push(c);
             }
-            else if (i.equals("/")){
-                int a = ans.pop();
-                int b = ans.pop();
-                int c = b / a;
-                ans.push(c);
-            }
-            else {
-                ans.push(Integer.parseInt(i));
+            else if(i.equals("/")) {
+                int a = store.pop();
+                int b = store.pop();
+                int c = b/a;
+                store.push(c);
+            } else {
+                store.push(Integer.parseInt(i));
             }
         }
-        return ans.pop();
+        return store.pop();
     }
 }
