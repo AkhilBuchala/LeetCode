@@ -11,15 +11,20 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-         Set<ListNode> nodesSeen = new HashSet<>();
-        ListNode current = head;
-        while (current != null) {
-            if (nodesSeen.contains(current)) {
+        int count = 0;
+        HashMap<ListNode, Integer> store = new HashMap<>();
+        
+        while(head != null) {
+            if(!store.containsKey(head)) {
+                store.put(head,count);
+            } else {
                 return true;
             }
-            nodesSeen.add(current);
-            current = current.next;
+            
+            count++;
+            head=head.next;
         }
+        
         return false;
     }
 }
