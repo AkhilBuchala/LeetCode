@@ -1,13 +1,11 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
     public int countGoodSubstrings(String s) {
         int result = 0;
         
-        for (int i = 0; i <= s.length() - 3; i++) {
-            String substring = s.substring(i, i + 3);
-            if (isGood(substring)) {
+        for(int i =0; i<=s.length()-3;i++) {
+            String substirng = s.substring(i,i+3);
+            boolean check = isGood(substirng);
+            if(check) {
                 result++;
             }
         }
@@ -15,13 +13,13 @@ class Solution {
         return result;
     }
     
-    private boolean isGood(String s) {
-        Set<Character> set = new HashSet<>();
-        for (char c : s.toCharArray()) {
-            if (set.contains(c)) {
+    private boolean isGood(String t) {
+        Set<Character> store = new HashSet<>();
+        for(char ch: t.toCharArray()) {
+            if(store.contains(ch)) {
                 return false;
             }
-            set.add(c);
+            store.add(ch);
         }
         return true;
     }
