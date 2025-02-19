@@ -10,10 +10,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AkhilBuchala/LeetCode/tree/master/0383-ransom-note) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AkhilBuchala/LeetCode/tree/master/0383-ransom-note) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 ## Binary Search
 |  |
@@ -31,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/AkhilBuchala/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
