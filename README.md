@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkhilBuchala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkhilBuchala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/AkhilBuchala/LeetCode/tree/master/0383-ransom-note) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -39,8 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AkhilBuchala/LeetCode/tree/master/0383-ransom-note) |
+| [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkhilBuchala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
