@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AkhilBuchala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 ## Counting
 |  |
@@ -50,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
