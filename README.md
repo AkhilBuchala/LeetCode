@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/AkhilBuchala/LeetCode/tree/master/0383-ransom-note) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1205-defanging-an-ip-address](https://github.com/AkhilBuchala/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Binary Search
 |  |
 | ------- |
