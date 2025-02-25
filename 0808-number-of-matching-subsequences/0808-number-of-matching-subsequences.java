@@ -1,16 +1,28 @@
 class Solution {
     public int numMatchingSubseq(String S, String[] words) {
-    List<Integer[]>[] waiting = new List[128];
-    for (int c = 0; c <= 'z'; c++)
-        waiting[c] = new ArrayList();
-    for (int i = 0; i < words.length; i++)
-        waiting[words[i].charAt(0)].add(new Integer[]{i, 1});
-    for (char c : S.toCharArray()) {
-        List<Integer[]> advance = new ArrayList(waiting[c]);
-        waiting[c].clear();
-        for (Integer[] a : advance)
-            waiting[a[1] < words[a[0]].length() ? words[a[0]].charAt(a[1]++) : 0].add(a);
+        HashMap<String, Integer> store = new HashMap<>();
+
+        for(String st : words) {
+            store.put(st, store.getOrDefault(st,0)+1);
+        }
+        int result = 0;
+
+        for(String st: store.keySet()) {
+            if(isSubsequent(st, S)){
+                result = result + store.get(st);
+
+            }
+        }
+        return result; 
+}
+
+public boolean isSubsequent(String single, String input) {
+    int i=0, j=0, m = single.length(), n=input.length();
+    while(i<m && j<n){
+        if(single.charAt(i)== input.charAt(j))
+           i++;
+        j++;   
     }
-    return waiting[0].size();
+    return i==m;
 }
 }
