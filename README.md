@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkhilBuchala/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AkhilBuchala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkhilBuchala/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -59,10 +60,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkhilBuchala/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkhilBuchala/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkhilBuchala/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AkhilBuchala/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
