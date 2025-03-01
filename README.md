@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/AkhilBuchala/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AkhilBuchala/LeetCode/tree/master/0383-ransom-note) |
+| [0556-next-greater-element-iii](https://github.com/AkhilBuchala/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1205-defanging-an-ip-address](https://github.com/AkhilBuchala/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Binary Search
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/AkhilBuchala/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkhilBuchala/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AkhilBuchala/LeetCode/tree/master/0344-reverse-string) |
+| [0556-next-greater-element-iii](https://github.com/AkhilBuchala/LeetCode/tree/master/0556-next-greater-element-iii) |
 ## Prefix Sum
 |  |
 | ------- |
