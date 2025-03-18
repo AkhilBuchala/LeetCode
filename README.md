@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/AkhilBuchala/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AkhilBuchala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AkhilBuchala/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/AkhilBuchala/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/AkhilBuchala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AkhilBuchala/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/AkhilBuchala/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AkhilBuchala/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AkhilBuchala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AkhilBuchala/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
