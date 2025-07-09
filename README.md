@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/AkhilBuchala/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1205-defanging-an-ip-address](https://github.com/AkhilBuchala/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AkhilBuchala/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/AkhilBuchala/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AkhilBuchala/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 <!---LeetCode Topics End-->
