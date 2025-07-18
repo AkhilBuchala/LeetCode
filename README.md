@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkhilBuchala/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkhilBuchala/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AkhilBuchala/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkhilBuchala/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkhilBuchala/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AkhilBuchala/LeetCode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkhilBuchala/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AkhilBuchala/LeetCode/tree/master/0206-reverse-linked-list) |
