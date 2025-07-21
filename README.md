@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkhilBuchala/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/AkhilBuchala/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/AkhilBuchala/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/AkhilBuchala/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Hash Table
 |  |
