@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/AkhilBuchala/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/AkhilBuchala/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/AkhilBuchala/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/AkhilBuchala/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Hash Table
 |  |
@@ -148,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AkhilBuchala/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/AkhilBuchala/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
