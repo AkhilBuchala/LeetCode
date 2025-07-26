@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/AkhilBuchala/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1205-defanging-an-ip-address](https://github.com/AkhilBuchala/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/AkhilBuchala/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AkhilBuchala/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0198-house-robber](https://github.com/AkhilBuchala/LeetCode/tree/master/0198-house-robber) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1250-longest-common-subsequence](https://github.com/AkhilBuchala/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
