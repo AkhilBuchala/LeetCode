@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AkhilBuchala/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AkhilBuchala/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/AkhilBuchala/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/AkhilBuchala/LeetCode/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/AkhilBuchala/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AkhilBuchala/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0525-contiguous-array) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AkhilBuchala/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkhilBuchala/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkhilBuchala/LeetCode/tree/master/0169-majority-element) |
+| [0252-meeting-rooms](https://github.com/AkhilBuchala/LeetCode/tree/master/0252-meeting-rooms) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 ## Counting
 |  |
