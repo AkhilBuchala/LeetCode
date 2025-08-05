@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/AkhilBuchala/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/AkhilBuchala/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/AkhilBuchala/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3359-linked-list-frequency](https://github.com/AkhilBuchala/LeetCode/tree/master/3359-linked-list-frequency) |
 ## String
 |  |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/AkhilBuchala/LeetCode/tree/master/0198-house-robber) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/AkhilBuchala/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/AkhilBuchala/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/AkhilBuchala/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1635-number-of-good-pairs](https://github.com/AkhilBuchala/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/AkhilBuchala/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Two Pointers
 |  |
 | ------- |
