@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkhilBuchala/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/AkhilBuchala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0808-number-of-matching-subsequences](https://github.com/AkhilBuchala/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 ## Dynamic Programming
 |  |
@@ -167,9 +168,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AkhilBuchala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AkhilBuchala/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/AkhilBuchala/LeetCode/tree/master/0253-meeting-rooms-ii) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AkhilBuchala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AkhilBuchala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
